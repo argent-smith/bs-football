@@ -1,16 +1,21 @@
+## Yarning
 
+```
+yarn
+yarn build
+```
 
-# Build
+## Build
 ```
 npm run build
 ```
 
-# Watch
+## Watch
 
 ```
 npm run watch
 ```
 
 
-# Editor
+## Editor
 If you use `vscode`, Press `Windows + Shift + B` it will build automatically
